@@ -1,1 +1,1 @@
-# Ecommerce_lap_projectr
+# Intact-LAPSHOP
